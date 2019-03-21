@@ -1,4 +1,4 @@
-# Multi-threaded-download
+# Multi-thread-download
 多线程下载
 
 之前下载某个图片数据集写的脚本，单线程下载感觉太慢了，然后就写了个多线程的
